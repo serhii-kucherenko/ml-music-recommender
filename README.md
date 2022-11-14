@@ -2,7 +2,7 @@
 
 ---
 
-[Live Notebook]()
+[Live Notebook](https://colab.research.google.com/github/serhii-kucherenko/ml-music-recommender/blob/main/Music%20Recommender.ipynb)
 
 It's a Machine Learning model example to predict the music genre based on `gender` and `age`
 
